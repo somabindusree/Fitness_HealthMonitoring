@@ -1,0 +1,10 @@
+package fitLife;
+
+public class FitnessMonitoring {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
